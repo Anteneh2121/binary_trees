@@ -10,3 +10,8 @@ implemented binary, binary search, AVL, and Max Binary Heap trees.
 * [Tester](./Main_tester): Folder of test files for all tasks. Provided by ALX.
 
 ## Helper File :raised_hands:
+
+## Header File :file_folder:
+
+* [binary_trees.h](./binary_trees.h): Header file containing definitions and
+prototypes for all types and functions written for the project.
