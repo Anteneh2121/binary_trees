@@ -11,8 +11,7 @@ implemented binary, binary search, AVL, and Max Binary Heap trees.
 
 ## Helper File :raised_hands:
 
-* [binary_tree_print.c](./binary_tree_print.c): C function that prints binary
-trees in a pretty way.
+
 
 ## Header File :file_folder:
 
