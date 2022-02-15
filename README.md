@@ -7,6 +7,6 @@ implemented binary, binary search, AVL, and Max Binary Heap trees.
 
 ## Tests :heavy_check_mark:
 
-* [tests](./Main_tester): Folder of test files for all tasks. Provided by ALX.
+* [Tester](./Main_tester): Folder of test files for all tasks. Provided by ALX.
 
 ## Helper File :raised_hands:
